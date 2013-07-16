@@ -1,8 +1,8 @@
 Erik Paluka. Fall 2011.
 
-Simulation of Multiple Rigid Bodies Colliding in 2D
+Simulation of Multiple Rigid Bodies Colliding in 2D.
 
-Implemented in Java using the Open Source Physics framework (osp_core_ode_csm0.zip)
+Implemented in Java using the Open Source Physics framework (osp_core_ode_csm0.zip).
 
 The most difficult aspect of rigid body simulation is modelling collisions. Modelling collisions requires the detection of contact points and computing the collision forces. Each body has a mass, position, velocity, orientation and angular velocity associated with it. Using Newton's Law of Restitution for Instantaneous Collisions, rigid body collisions can be accurately modelled.
 
